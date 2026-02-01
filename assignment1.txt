@@ -1,1 +1,2 @@
 Smart Face Recognition Attendance System using MERN Stack & Machine Learning
+project link :https://github.com/sairamareddy2/smart-face-recognition-attendance
