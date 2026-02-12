@@ -1,3 +1,5 @@
 Smart Face Recognition Attendance System using MERN Stack & Machine Learning
 project link :https://github.com/sairamareddy2/smart-face-recognition-attendance
+Student Performance Prediction Using Logistic Regression
+project 2 link : https://github.com/sairamareddy2/ML-model
 Implementation of Tokenization and cosine   https://github.com/sairamareddy2/AI-week2
